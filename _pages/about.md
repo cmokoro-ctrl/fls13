@@ -1,18 +1,22 @@
 ---
+---
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: M.S. Data Science Candidate, Southern Methodist University (SMU)
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>M.S. Data Science Candidate</p>
+    <p>Southern Methodist University (SMU)</p>
+---
 
+Hi, I'm Chinedu Okoro — a graduate student in the Master of Science in Data Science (MSDS) program at Southern Methodist University (SMU). I'm interested in turning messy, real-world data into decisions people can actually act on.
+
+This site includes my Case Study 1 project for MSDS 6306: an analysis of voluntary employee attrition for Frito Lay, where I identified the key drivers behind turnover and built a classification model to flag at-risk employees before they leave. Take a look at the Projects tab for the full write-up.
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
