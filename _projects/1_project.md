@@ -23,4 +23,5 @@ Employees with no stock options leave at roughly 3x the rate of those who have t
 ### Business impact
 Targeting the model's at-risk list with a $200 retention incentive is estimated to save between $3.8M and $31.2M per year versus doing nothing, depending on assumed replacement-cost %, with an $11.7M midpoint estimate.
 
-[Read the full analysis (knitted R Markdown report)](#) · [View the R Markdown source](#)
+[Read the full analysis (knitted R Markdown report)]({{ '/assets/reports/DDSAnalytics Talent Management/ Predicting Employee Attrition.pdf' | relative_url }})
+· [View the R Markdown source]({{ '/assets/reports/CaseStudy1DDS.Rmd' | relative_url }})
